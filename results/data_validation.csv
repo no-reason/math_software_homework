@@ -1,0 +1,12 @@
+check,result,status
+总行数,17379,ok
+字段数,18,ok
+必要字段完整性,全部存在,ok
+缺失值总数,0,ok
+重复记录数,0,ok
+hr超范围(0~23),0,ok
+weekday超范围(0~6),0,ok
+cnt为负,0,ok
+casual+registered≠cnt,0,ok
+时间范围,2011-01-01 ~ 2012-12-31,ok
+时间升序排列,是,ok

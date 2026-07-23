@@ -1,0 +1,3 @@
+model,rmse,mae,mape,runtime_seconds,notes
+ARIMA(2,1,2),95.21,76.16,496.34,0.01,CSS (手动实现)
+SVR(hr+weather+temp+hum+wind),50.82,43.08,367.23,0.21,Statistics Toolbox
